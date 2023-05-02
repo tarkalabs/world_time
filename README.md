@@ -1,16 +1,23 @@
 # world_time
 
-A new Flutter project.
+A simple Flutter project to view times in different world cities.
 
-## Getting Started
+## Screen Recording
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/16992520/235717595-4620b423-96c0-4860-9ab8-5961ee3c12bf.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Topics Learnt
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Navigation and passing data between screens both forward and backwards
+* UI Designing
+* Making async network requests
+* Using List View Widget
+
+## Third-party libraries used
+* [http](https://pub.dev/packages/http/) used for API calls
+* [intl](https://pub.dev/packages/intl/) used for formatting dates
+* [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) used for showing the loading indicator on the Home Screen
+
+## Reference
+This is build following this [tutorial series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ).
